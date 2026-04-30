@@ -1,4 +1,4 @@
-﻿# Dacharla Sreekar
+# Dacharla Sreekar
 
 Email: dacharlasreekar78@gmail.com  
 GitHub: https://github.com/klu230003015  
@@ -6,7 +6,7 @@ Location: India
 
 ## Professional Summary
 
-Aspiring AI Tools and Prompt Specialist with hands-on project experience in prompt engineering, generative AI workflows, analytics, and no-code automation. Built practical portfolio projects for campaign content generation, prompt testing, trend analysis, and AI-assisted operations. Comfortable working remotely, learning fast, and translating AI tools into clear business outcomes for creative and marketing teams.
+Aspiring AI Tools and Prompt Specialist with hands-on experience building AI web applications for prompt engineering, content generation, research analytics, and no-code automation. Comfortable using ChatGPT-style workflows, structured prompts, and simple web interfaces to create useful tools that improve user experience and team productivity. Fast learner with strong analytical thinking, clear communication, and readiness for remote internship work.
 
 ## Skills
 
@@ -22,37 +22,37 @@ Aspiring AI Tools and Prompt Specialist with hands-on project experience in prom
 - Git and GitHub
 - Communication and Analytical Thinking
 
-## Selected Projects
+## Selected Web Projects
 
 ### Prompt Experiment Lab
 - GitHub: https://github.com/klu230003015/prompt-experiment-lab
-- Built a Streamlit tool to compare multiple prompt variants side by side for the same task.
-- Added scoring and CSV export to support prompt evaluation and iteration.
-- Designed for content, research, support, and internal AI workflow testing.
+- Built a web app to compare multiple prompt variants side by side for the same task.
+- Added scoring, experiment tracking, and CSV export to support prompt evaluation and iteration.
+- Designed for content generation, research support, and internal AI workflow testing.
 
 ### Campaign AI Content Studio
 - GitHub: https://github.com/klu230003015/campaign-ai-content-studio
-- Created an AI-assisted content generator for agency-style campaigns.
+- Created a web app for AI-assisted campaign content generation.
 - Structured prompts to produce hooks, captions, email copy, and CTAs for multiple channels.
-- Focused on reusable prompt systems that reduce manual drafting time.
+- Focused on reusable prompt systems that reduce manual drafting time for creative teams.
 
 ### Research Trend Analyzer
 - GitHub: https://github.com/klu230003015/research-trend-analyzer
-- Developed a lightweight analytics app to upload CSV data, visualize trends, and generate AI summaries.
+- Developed a research dashboard web app to upload CSV data, visualize trends, and generate AI summaries.
 - Combined research inputs with actionable campaign recommendations.
-- Demonstrated analytical thinking through structured charts and insight extraction.
+- Demonstrated analytical thinking through charts, structured summaries, and insight extraction.
 
-### No-Code Automation Blueprints
+### Automation Workflow Studio
 - GitHub: https://github.com/klu230003015/no-code-automation-blueprints
-- Designed reusable AI workflow blueprints for lead routing, content approvals, and support triage.
-- Documented how AI prompts can plug into tools like n8n, Make, Zapier, Airtable, and Slack.
-- Showed practical automation thinking for agency operations and process improvement.
+- Built a web app showcasing AI-assisted no-code workflows for lead routing, content operations, and support triage.
+- Documented how prompts connect with tools like n8n, Make, Zapier, Airtable, Slack, and Google Sheets.
+- Added structured outputs that can be submitted as part of an internship assessment task.
 
 ## Experience Highlights
 
-- Researched and prototyped AI-assisted workflows aligned to content, strategy, and operations use cases.
-- Built user-friendly demos that can be presented as assessment projects during internships or entry-level AI roles.
+- Built 4 practical AI web projects aligned to prompt engineering, generative AI tools, research analytics, and automation.
 - Practiced converting open-ended business tasks into structured prompts, workflows, and measurable outputs.
+- Created assessment-ready examples with tools used, prompts, and outputs that can be presented during hiring tasks.
 
 ## Education
 
