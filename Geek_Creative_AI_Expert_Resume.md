@@ -25,21 +25,25 @@ Aspiring AI Tools and Prompt Specialist with hands-on project experience in prom
 ## Selected Projects
 
 ### Prompt Experiment Lab
+- GitHub: https://github.com/klu230003015/prompt-experiment-lab
 - Built a Streamlit tool to compare multiple prompt variants side by side for the same task.
 - Added scoring and CSV export to support prompt evaluation and iteration.
 - Designed for content, research, support, and internal AI workflow testing.
 
 ### Campaign AI Content Studio
+- GitHub: https://github.com/klu230003015/campaign-ai-content-studio
 - Created an AI-assisted content generator for agency-style campaigns.
 - Structured prompts to produce hooks, captions, email copy, and CTAs for multiple channels.
 - Focused on reusable prompt systems that reduce manual drafting time.
 
 ### Research Trend Analyzer
+- GitHub: https://github.com/klu230003015/research-trend-analyzer
 - Developed a lightweight analytics app to upload CSV data, visualize trends, and generate AI summaries.
 - Combined research inputs with actionable campaign recommendations.
 - Demonstrated analytical thinking through structured charts and insight extraction.
 
 ### No-Code Automation Blueprints
+- GitHub: https://github.com/klu230003015/no-code-automation-blueprints
 - Designed reusable AI workflow blueprints for lead routing, content approvals, and support triage.
 - Documented how AI prompts can plug into tools like n8n, Make, Zapier, Airtable, and Slack.
 - Showed practical automation thinking for agency operations and process improvement.
