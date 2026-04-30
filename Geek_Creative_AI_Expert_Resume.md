@@ -1,12 +1,14 @@
-# Dacharla Sreekar
+# Sreekar Dacharla
 
-Email: dacharlasreekar78@gmail.com  
+Email: sreekardacharla@gmail.com  
+Phone: +91 9390327704  
 GitHub: https://github.com/klu230003015  
-Location: India  
+LinkedIn: https://linkedin.com/in/sreekar-dacharla  
+Location: Vijayawada, India  
 
 ## Professional Summary
 
-Aspiring AI Tools and Prompt Specialist with hands-on experience building AI web applications for prompt engineering, content generation, research analytics, and no-code automation. Comfortable using ChatGPT-style workflows, structured prompts, and simple web interfaces to create useful tools that improve user experience and team productivity. Fast learner with strong analytical thinking, clear communication, and readiness for remote internship work.
+Computer Science undergraduate with hands-on experience building web-based technical projects using Python, Node.js, GitHub, Docker, and cloud tools. Recently built AI web applications focused on prompt engineering, content generation, research analytics, and no-code workflow automation. Strong analytical thinking, fast learning ability, and clear communication, with interest in applying AI tools to creative, marketing, and automation workflows.
 
 ## Skills
 
@@ -15,11 +17,16 @@ Aspiring AI Tools and Prompt Specialist with hands-on experience building AI web
 - AI Tool Prototyping
 - No-Code Automation Concepts
 - Research and Analytics
-- Streamlit
 - Python
+- Node.js
+- Streamlit
 - Pandas
 - Plotly
 - Git and GitHub
+- Docker
+- Microsoft Azure
+- AWS
+- REST APIs
 - Communication and Analytical Thinking
 
 ## Selected Web Projects
@@ -48,18 +55,41 @@ Aspiring AI Tools and Prompt Specialist with hands-on experience building AI web
 - Documented how prompts connect with tools like n8n, Make, Zapier, Airtable, Slack, and Google Sheets.
 - Added structured outputs that can be submitted as part of an internship assessment task.
 
-## Experience Highlights
+## Additional Technical Projects
 
-- Built 4 practical AI web projects aligned to prompt engineering, generative AI tools, research analytics, and automation.
-- Practiced converting open-ended business tasks into structured prompts, workflows, and measurable outputs.
-- Created assessment-ready examples with tools used, prompts, and outputs that can be presented during hiring tasks.
+### CloudShield SOC
+- Built a cloud security monitoring dashboard integrating Azure Activity Logs, Defender for Cloud, Secure Score, and Microsoft Sentinel.
+- Developed REST APIs using Node.js to collect and normalize Azure monitoring data.
+- Containerized the application with Docker and deployed it on an Azure Linux VM.
+
+### Cloud-Native DevOps Deployment Using Docker and Azure
+- Containerized a React application with Docker and pushed images to Docker Hub.
+- Provisioned a Linux VM on Microsoft Azure and deployed containers.
+- Configured networking and exposed the application through a public IP.
 
 ## Education
 
-- Add your degree, college name, expected graduation year, and relevant coursework here.
+### Koneru Lakshmaiah University, Vijayawada
+- B.Tech in Computer Science and Engineering
+- 2023 - 2027
+- CGPA: 8.76
+
+### Bhasyam Junior College, Guntur
+- Intermediate (MPC)
+- 2021 - 2023
+- Score: 90%
+
+### KKR Gowtham Educational Institution, Gudavalli
+- Secondary School Education
+- 2020 - 2021
+- Score: 100%
+
+## Certifications
+
+- AWS Cloud Practitioner (Pursuing)
 
 ## Additional Information
 
 - Available for immediate start
 - Comfortable with remote collaboration
-- Interested in AI tools, creative technology, and workflow automation
+- Interested in AI tools, creative technology, automation, and applied problem-solving

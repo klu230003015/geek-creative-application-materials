@@ -2,7 +2,7 @@
 
 Dear Hiring Team,
 
-I am excited to apply for the AI Expert (AI Tools and Prompt Specialist) role at Geek Creative Agency. I am especially interested in this opportunity because it combines prompt engineering, creative technology, AI tool experimentation, and automation in a real agency environment.
+I am excited to apply for the AI Expert (AI Tools and Prompt Specialist) role at Geek Creative Agency. I am currently pursuing a B.Tech in Computer Science and Engineering at Koneru Lakshmaiah University and have built hands-on projects in web development, cloud deployment, and AI-based applications.
 
 To prepare for roles like this, I built four practical AI web projects that include:
 
@@ -11,9 +11,9 @@ To prepare for roles like this, I built four practical AI web projects that incl
 - a research and trend analysis dashboard for insight-driven decisions
 - an automation workflow studio for no-code agency workflows
 
-These projects reflect how I approach AI work: I like turning broad ideas into practical systems that save time, improve quality, and help teams work faster. I am comfortable learning quickly, working independently, and collaborating remotely with clear communication.
+Along with these AI projects, I also have experience with Python, Node.js, Docker, GitHub, REST APIs, and Azure-based deployments. This combination has helped me become comfortable turning ideas into working tools and adapting quickly to new technologies and workflows.
 
-I would welcome the chance to contribute to Geek Creative Agency and continue growing through hands-on work with AI tools, prompts, and automation.
+I am especially interested in this opportunity because it combines prompt engineering, AI tools, creativity, automation, and research in a practical work environment. I would welcome the chance to contribute, learn fast, and support the team with focused execution and clear communication.
 
 Sincerely,  
-Dacharla Sreekar
+Sreekar Dacharla
